@@ -8,3 +8,6 @@ def ascii(word):
             char=word[i]
             sum+=dict[char]
     return sum
+
+
+print(dict)
